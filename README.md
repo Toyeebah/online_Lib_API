@@ -144,3 +144,6 @@ pip install -r requirements.txt
 - GET /records/user/{user_id}/: View borrowing records for a user
 - GET /records/: View all borrowing records
 
+
+
+ <p> Tests for books and users were attempted </p>
